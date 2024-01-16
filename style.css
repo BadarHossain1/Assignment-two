@@ -691,6 +691,7 @@ input[type="text"] {
         flex-direction: column;
         width: 287px;
         height: 288px;
+        padding: 8px;
         justify-content: center;
         align-items: center;
     }
