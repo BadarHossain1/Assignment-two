@@ -55,6 +55,7 @@ nav>img {
 .navbar-list ul {
     display: flex;
     justify-content: space-between;
+    
 
 
 }
@@ -163,7 +164,8 @@ select{
     font-size: 16px;
     font-weight: 400;
     justify-content: center;
-    gap: 168px;
+    gap: 90px;
+    
 
 }
 .white-button3 {
@@ -177,7 +179,7 @@ select{
     font-size: 16px;
     font-weight: 400;
     justify-content: center;
-    gap: 132px;
+    gap: 52px;
     
 
 }
@@ -224,6 +226,7 @@ select{
     font-weight: 400;
     line-height: 26px;
 }
+
 
 .read-more-button {
     color: #FFF;
@@ -506,6 +509,7 @@ input[type="text"] {
     width: 98vw;
     height: 502px;
     background: rgba(19, 19, 24, 0.05);
+    margin-bottom: 10px;
 }
 
 .footer-description {
@@ -705,6 +709,12 @@ input[type="text"] {
         width: 255px;
         height: 52px;
 
+    }
+    .white-button2{
+        gap: 168px;
+    }
+    .white-button3{
+        gap: 132px;
     }
 
 
